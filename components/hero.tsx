@@ -10,7 +10,7 @@ export function Hero() {
             Where every<br />set shines.
           </h1>
           <p className="text-foreground text-lg mb-8 leading-relaxed">
-            Wilmington, NC&apos;s private nail studio. No rush, no crowds — just you, Sun, and your best nails yet.
+            Wilmington NC&apos;s private nail studio. No rush, no crowds — just you, Sun, and your best nails yet.
           </p>
         </div>
       </div>

@@ -52,24 +52,6 @@ export function Footer() {
             </div>
           </div>
 
-          {/* Policies Column */}
-          <div>
-            <h3 className="font-serif text-xl font-semibold mb-4 text-foreground">Policies</h3>
-            <nav className="space-y-3">
-              <Link
-                href="/booking-policies"
-                className="block text-foreground hover:text-accent transition-colors"
-              >
-                Booking Policies
-              </Link>
-              <Link
-                href="/privacy-policy"
-                className="block text-foreground hover:text-accent transition-colors"
-              >
-                Privacy Policy
-              </Link>
-            </nav>
-          </div>
         </div>
       </div>
 
@@ -79,7 +61,14 @@ export function Footer() {
           © {new Date().getFullYear()} Sun&apos;s Nail Studio · Wilmington, NC. All rights reserved.
         </p>
         <p className="text-center text-xs text-foreground mt-2">
-          Designed by <span className="font-medium">Forge Studio</span>
+          Designed by <a
+            href="https://forgestudio.one"
+            target="_blank"
+            rel="noreferrer"
+            className="font-medium hover:text-accent transition-colors"
+          >
+            Forge Studio
+          </a>
         </p>
       </div>
     </footer>
