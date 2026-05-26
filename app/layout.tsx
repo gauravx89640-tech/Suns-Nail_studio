@@ -1,3 +1,4 @@
+import Script from "next/script";
 import type { Metadata } from 'next'
 import { Playfair_Display, DM_Sans } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
@@ -27,10 +28,23 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${playfair.variable} ${dmSans.variable}`}>
-      <body className="font-sans antialiased bg-background">
-        {children}
-        {process.env.NODE_ENV === 'production' && <Analytics />}
-      </body>
-    </html>
+  <body className="font-sans antialiased bg-background">
+    <Script
+      src="https://www.googletagmanager.com/gtag/js?id=G-KEDRSS698Y"
+      strategy="afterInteractive"
+    />
+    <Script id="google-analytics" strategy="afterInteractive">
+      {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-KEDRSS698Y');
+      `}
+    </Script>
+
+    {children}
+    {process.env.NODE_ENV === "production" && <Analytics />}
+  </body>
+</html>
   )
 }
