@@ -32,7 +32,7 @@ export function AboutSection() {
           {/* Right Image */}
           <div className="relative h-[400px] lg:h-[500px] rounded-lg overflow-hidden">
             <Image
-              src="/gallery/007-sunflower.jpg"
+              src="/sun-studio-portrait.png"
               alt="Sun at her nail station with teal walls"
               fill
               className="object-cover"
