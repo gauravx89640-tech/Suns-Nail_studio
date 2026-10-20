@@ -18,7 +18,7 @@ export function Hero() {
       {/* Right - Studio Image */}
       <div className="relative h-[400px] lg:h-auto bg-gradient-to-br from-[#F5DFA0] to-[#E8C070]">
         <Image
-          src="/images/frontpage.jpg"
+          src="/gallery/018-silver-glitter.jpg"
           alt="Sun's Nail Studio interior with pedicure chair, nail station, and coastal wall art"
           fill
           className="object-cover"

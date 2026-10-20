@@ -1,16 +1,5 @@
 import Image from "next/image"
-
-const galleryImages = [
-  { src: "/images/gallery-delicate.jpg", alt: "Delicate nail art" },
-  { src: "/images/gallery-gold-blue.jpg", alt: "Gold and blue nails" },
-  { src: "/images/gallery-artistic.jpg", alt: "Artistic nail design" },
-  { src: "/images/gallery-colorful.jpg", alt: "Colorful nail art" },
-  { src: "/images/gallery-cream.jpg", alt: "Cream nails with accents" },
-  { src: "/images/gallery-glitter.jpg", alt: "Glitter nail art" },
-  { src: "/images/gallery-delicate.jpg", alt: "Delicate nail art" },
-  { src: "/images/gallery-gold-blue.jpg", alt: "Gold and blue nails" },
-  { src: "/images/gallery-floral.jpg", alt: "Floral nail art" },
-]
+import galleryImages from "@/lib/gallery-data"
 
 export function Gallery() {
   return (

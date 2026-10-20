@@ -4,15 +4,15 @@ import Link from "next/link"
 const services = [
   {
     title: "Acrylic",
-    image: "/images/service-acrylic.jpg",
+    image: "/gallery/003-cherry-checkered.jpg",
   },
   {
     title: "Manicure & Pedicure",
-    image: "/images/service-mani-pedi.jpg",
+    image: "/gallery/018-silver-glitter.jpg",
   },
   {
     title: "Nail Art",
-    image: "/images/service-nail-art.jpg",
+    image: "/gallery/006-pink-swirl.jpg",
   },
 ]
 
