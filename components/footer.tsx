@@ -20,7 +20,7 @@ export function Footer() {
             <p className="font-medium text-foreground">
               <span className="font-semibold">Text: </span>
               <a href="tel:+18335175239" className="hover:text-accent transition-colors">
-                910-342-7003
+                833-517-5239
               </a>
             </p>
             <p className="text-sm text-foreground mt-2">
