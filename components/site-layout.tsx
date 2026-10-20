@@ -10,7 +10,7 @@ const structuredData = {
   "@type": "NailSalon",
   "name": "Sun's Nail Studio",
   "url": "https://www.sunsnailstudio.com",
-  "telephone": "+19103427003",
+  "telephone": "+1833-517-5239",
   "email": "sun@sunsnailstudio.com",
   "address": {
     "@type": "PostalAddress",
