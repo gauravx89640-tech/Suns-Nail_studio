@@ -179,7 +179,7 @@ export default function ContactPage() {
               </form>
 
               <p className="mt-8 text-foreground italic">
-                Prefer a quicker reply? Text or call Sun at (910) 342-7003. Sun is sometimes with a client and may not answer calls immediately — texting is always the fastest way to reach her.
+                Prefer a quicker reply? Text or call Sun at 833-517-5239. Sun is sometimes with a client and may not answer calls immediately — texting is always the fastest way to reach her.
               </p>
               
               <p className="mt-4">
