@@ -179,7 +179,7 @@ export default function ContactPage() {
               </form>
 
               <p className="mt-8 text-foreground italic">
-                Prefer a quicker reply? Text or call Sun at (910) 342-7003. Sun is sometimes with a client and may not answer calls immediately — texting is always the fastest way to reach her.
+                Prefer a quicker reply? Text or call Sun at (833) 517-5239. Sun is sometimes with a client and may not answer calls immediately — texting is always the fastest way to reach her.
               </p>
               
               <p className="mt-4">
@@ -242,7 +242,7 @@ export default function ContactPage() {
               {/* Google Map */}
               <div className="mb-4 rounded-xl overflow-hidden">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.308888!2d-77.818832!3d34.270218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89a9f4e2e0c8c0ad%3A0x0!2s7122%20Market%20St%20Suite%20170%2C%20Wilmington%2C%20NC%2028411!5e0!3m2!1sen!2sus!4v1234567890"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.308888!2d-77.818832!3d34.270218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89a9f4e2e0c8c0ad%3A0x0!2s7122[...]
                   width="100%"
                   height="320"
                   style={{ border: 0 }}
