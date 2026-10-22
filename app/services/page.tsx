@@ -99,7 +99,7 @@ export default function ServicesPage() {
             Not sure what you need?
           </h2>
           <p className="text-foreground mb-8">
-            Sun is happy to help you pick the right service for your nails. Just text her at 910-342-7003 and she&apos;ll guide you.
+            Sun is happy to help you pick the right service for your nails. Just text her at 833-517-5239 and she&apos;ll guide you.
           </p>
           <Link
             href={bookingUrl}
