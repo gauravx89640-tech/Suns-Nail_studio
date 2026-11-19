@@ -12,13 +12,13 @@ import { CTABanner } from "@/components/cta-banner"
 
 export const metadata: Metadata = {
   title: "Sun's Nail Studio | Private Nail Salon in Wilmington, NC",
-  description: "Sun's Nail Studio offers private, one-on-one nail services in Wilmington, NC. Acrylic, gel, dip powder, nail art, pedicures & waxing. Book today.",
+  description: "Sun's Nail Studio offers private, one-on-one nail services in Wilmington, NC. Acrylic, gel, dip powder, nail art & pedicures. Book today.",
   alternates: {
     canonical: "https://www.sunsnailstudio.com",
   },
   openGraph: {
     title: "Sun's Nail Studio | Private Nail Salon in Wilmington, NC",
-    description: "Sun's Nail Studio offers private, one-on-one nail services in Wilmington, NC. Acrylic, gel, dip powder, nail art, pedicures & waxing. Book today.",
+    description: "Sun's Nail Studio offers private, one-on-one nail services in Wilmington, NC. Acrylic, gel, dip powder, nail art & pedicures. Book today.",
     url: "https://www.sunsnailstudio.com",
     siteName: "Sun's Nail Studio",
     images: [

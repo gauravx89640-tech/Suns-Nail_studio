@@ -120,7 +120,7 @@ export default function AboutPage() {
                 With years of experience running her own full-service salon, Sun now dedicates her craft entirely to you. Whether it&apos;s a classic manicure, an intricate nail art set, or a deeply relaxing pedicure — Sun listens, takes her time, and makes sure you leave with nails you love.
               </p>
               <p>
-                Services include pedicures, manicures, acrylic full sets, fill-ins, dip powder, LCN, Chrome, Ombre, Pink & White, nail art, and waxing. Come experience the difference a private studio makes.
+                Services include pedicures, manicures, acrylic full sets, fill-ins, dip powder, LCN, Chrome, Ombre, Pink & White, and nail art. Come experience the difference a private studio makes.
               </p>
             </div>
 

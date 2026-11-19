@@ -4,13 +4,13 @@ import { SiteLayout } from "@/components/site-layout"
 
 export const metadata: Metadata = {
   title: "Nail Services & Pricing | Sun's Nail Studio Wilmington NC",
-  description: "View all nail services at Sun's Nail Studio in Wilmington, NC. Acrylic full sets from $65, gel manicures from $45, dip powder, pedicures, nail art & waxing.",
+  description: "View all nail services at Sun's Nail Studio in Wilmington, NC. Acrylic full sets from $65, gel manicures from $45, dip powder, pedicures & nail art.",
   alternates: {
     canonical: "https://www.sunsnailstudio.com/services",
   },
   openGraph: {
     title: "Nail Services & Pricing | Sun's Nail Studio Wilmington NC",
-    description: "View all nail services at Sun's Nail Studio in Wilmington, NC. Acrylic full sets from $65, gel manicures from $45, dip powder, pedicures, nail art & waxing.",
+    description: "View all nail services at Sun's Nail Studio in Wilmington, NC. Acrylic full sets from $65, gel manicures from $45, dip powder, pedicures & nail art.",
     url: "https://www.sunsnailstudio.com/services",
     siteName: "Sun's Nail Studio",
     images: [

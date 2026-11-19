@@ -11,7 +11,6 @@ const serviceOptions = [
   "Pedicure",
   "Nail Art",
   "Dip Powder",
-  "Waxing",
   "Not sure yet"
 ]
 
