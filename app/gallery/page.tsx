@@ -11,12 +11,20 @@ const categories = ["All", "Acrylic", "Nail Art", "Manicure & Pedicure", "Season
 
 const galleryImages = [
   // Acrylic
+  { src: "/gallery/035-amber-marble.jpg", alt: "Amber and gold marble stiletto nails", category: "Acrylic" },
+  { src: "/gallery/036-matte-leopard.jpg", alt: "Matte black leopard print nails", category: "Acrylic" },
+  { src: "/gallery/037-red-ombre-stars.jpg", alt: "Red and white ombre nails with black stars", category: "Acrylic" },
+  { src: "/gallery/038-black-star.jpg", alt: "Black and clear nails with hand-painted silver stars", category: "Acrylic" },
   { src: "/gallery/001-black-flame.jpg", alt: "Black matte flame nails", category: "Acrylic" },
   { src: "/gallery/002-leopard-print.jpg", alt: "Leopard print nails", category: "Acrylic" },
   { src: "/gallery/003-cherry-checkered.jpg", alt: "Red checkered cherry acrylic nails", category: "Acrylic" },
   { src: "/gallery/004-coffee-theme.webp", alt: "Coffee cappuccino theme with leopard spots and geometric patterns", category: "Acrylic" },
   
   // Nail Art
+  { src: "/gallery/039-blue-chrome.jpg", alt: "Blue chrome nails with silver swirls", category: "Nail Art" },
+  { src: "/gallery/040-tortoiseshell.jpg", alt: "Tortoiseshell French tip nails with gold flakes", category: "Nail Art" },
+  { src: "/gallery/041-blue-marble.jpg", alt: "Blue and gold marble wave nail art", category: "Nail Art" },
+  { src: "/gallery/042-turquoise-cow-print.jpg", alt: "Turquoise and brown cow print nails", category: "Nail Art" },
   { src: "/gallery/005-ghost-checkered.jpg", alt: "White checkered ghost nails", category: "Nail Art" },
   { src: "/gallery/006-pink-swirl.jpg", alt: "Pink swirl abstract nails", category: "Nail Art" },
   { src: "/gallery/007-sunflower.jpg", alt: "Yellow sunflower nails", category: "Nail Art" },
@@ -32,6 +40,9 @@ const galleryImages = [
   { src: "/gallery/017-blue-branches.jpg", alt: "Light blue with navy hand-painted branches", category: "Nail Art" },
   
   // Manicure & Pedicure
+  { src: "/gallery/043-green-leaf.jpg", alt: "Deep green manicure with hand-painted leaves", category: "Manicure & Pedicure" },
+  { src: "/gallery/044-aurora-chrome.jpg", alt: "Sheer pink nails with iridescent aurora chrome", category: "Manicure & Pedicure" },
+  { src: "/gallery/045-brown-polka-dot.jpg", alt: "Glossy brown nails with white polka dots", category: "Manicure & Pedicure" },
   { src: "/gallery/018-silver-glitter.jpg", alt: "Silver white glitter nails", category: "Manicure & Pedicure" },
   { src: "/gallery/019-pink-shimmer.jpg", alt: "Natural pink shimmer nails", category: "Manicure & Pedicure" },
   { src: "/gallery/020-daisy-french.jpg", alt: "White daisy dot french nails", category: "Manicure & Pedicure" },
@@ -39,6 +50,9 @@ const galleryImages = [
   { src: "/gallery/022-brown-glitter.jpg", alt: "Brown ombre with glitter accent nails", category: "Manicure & Pedicure" },
   
   // Seasonal
+  { src: "/gallery/046-fall-plaid.jpg", alt: "Fall plaid and gold nails with a pumpkin accent", category: "Seasonal" },
+  { src: "/gallery/047-black-cat.jpg", alt: "Halloween black cat nails with orange glitter", category: "Seasonal" },
+  { src: "/gallery/048-patriotic-floral.jpg", alt: "Red, white and blue floral nails with French tips", category: "Seasonal" },
   { src: "/gallery/023-blue-winter.jpg", alt: "Blue glitter winter nails", category: "Seasonal" },
   { src: "/gallery/024-snowflake-gold.jpg", alt: "Gold glitter snowflake nails", category: "Seasonal" },
   { src: "/gallery/025-spider-web.jpg", alt: "Orange Halloween spider web nails", category: "Seasonal" },
